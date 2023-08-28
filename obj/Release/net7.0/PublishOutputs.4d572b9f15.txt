@@ -1,0 +1,8 @@
+D:\ing. de sistemas\semestre 9 udenar\Sistemas distribuidos\ChatSISDIS\obj\Release\net7.0\PubTmp\Out\ChatSISDIS.exe
+D:\ing. de sistemas\semestre 9 udenar\Sistemas distribuidos\ChatSISDIS\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\ing. de sistemas\semestre 9 udenar\Sistemas distribuidos\ChatSISDIS\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\ing. de sistemas\semestre 9 udenar\Sistemas distribuidos\ChatSISDIS\obj\Release\net7.0\PubTmp\Out\libman.json
+D:\ing. de sistemas\semestre 9 udenar\Sistemas distribuidos\ChatSISDIS\obj\Release\net7.0\PubTmp\Out\ChatSISDIS.dll
+D:\ing. de sistemas\semestre 9 udenar\Sistemas distribuidos\ChatSISDIS\obj\Release\net7.0\PubTmp\Out\ChatSISDIS.deps.json
+D:\ing. de sistemas\semestre 9 udenar\Sistemas distribuidos\ChatSISDIS\obj\Release\net7.0\PubTmp\Out\ChatSISDIS.runtimeconfig.json
+D:\ing. de sistemas\semestre 9 udenar\Sistemas distribuidos\ChatSISDIS\obj\Release\net7.0\PubTmp\Out\ChatSISDIS.pdb
